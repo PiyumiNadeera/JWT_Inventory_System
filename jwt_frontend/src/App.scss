@@ -1,0 +1,60 @@
+$primaryColor:#a2a2fb;
+$secondaryColor: aliceblue;
+
+body {
+    background: $primaryColor !important ;
+}
+
+.topic{
+    text-align: center;
+    background-color: $primaryColor;
+    padding: 5px;
+}
+
+
+.login-box{
+    align-items: center;
+    justify-content: center;
+    background-color:$secondaryColor;
+    margin: 20px;
+    padding: 10px;
+    border-radius: 10px;
+    min-height: 90vh;
+    min-width: 80vw;
+}
+
+.Images{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.introduction{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.home-box{
+    background-color: $secondaryColor;
+    text-align: justify;
+    justify-content: center;
+    align-items: center;
+    font-size:x-large;
+    margin:50px ;
+    padding: 20px 20px;
+    border-radius: 25px;
+} 
+
+.nav_bar{
+    background-color: $secondaryColor;
+}
+
+Table{
+    background-color: $secondaryColor;
+    min-height: 60vh;
+}
+
+
+
+@import '~bootstrap/scss/bootstrap';
