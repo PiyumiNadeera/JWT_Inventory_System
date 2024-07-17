@@ -31,7 +31,7 @@ A web-based Inventory Management System for small businesses, built with React a
 - [XAMPP]
 
 ### Backend Setup
-1. Clone the repository:https://github.com/yourusername/jwt-inventory-system.git
+1. Clone the repository:https://github.com/PiyumiNadeera/JWT_Inventory_System.git
 2. Navigate to the backend directory
 3. Start XAMPP and ensure MySQL is running
 4. Build the project:mvn clean install
