@@ -10,7 +10,7 @@
 
 # production
 /build
-/profileImages
+/profileImage
 
 # misc
 .DS_Store
